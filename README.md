@@ -22,16 +22,16 @@ In this repo you can learn how to make an incubator by assembling of the parts o
 ## Fritzing and Incubator photos
 
 ![Fritzing](/images/NTC100K_Incubator.jpg)   
-Fritzing - all the electronic parts must respect this scheme   
+**Fritzing - all the electronic parts must respect this scheme**   
 
 ![Incubator](/images/incubator.jpg)   
-Incubator   
+**Incubator**   
 
 ![Incubator with petri](/images/incubator2.JPG)   
-Incubator with our first test   
+**Incubator with our first test**   
 
 ![Petri Dish](/images/petridish.JPG)   
-First test - over night growth of *Lactobacillus*   
+**First test - over night growth of *Lactobacillus* **   
 
 ## Arduino Code
 
