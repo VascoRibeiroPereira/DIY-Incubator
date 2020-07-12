@@ -27,10 +27,10 @@ Fritzing - all the electronic parts must respect this scheme
 ![Incubator](/images/incubator.jpg)   
 Incubator   
 
-![Incubator with petri](/images/incubator2.jpg)   
+![Incubator with petri](/images/incubator2.JPG)   
 Incubator with our first test   
 
-![Petri Dish](/images/petridish.jpg)   
+![Petri Dish](/images/petridish.JPG)   
 First test - over night growth of *Lactobacillus*   
 
 ## Arduino Code
@@ -38,7 +38,7 @@ First test - over night growth of *Lactobacillus*
 You must have the arduino IDE to upload this code to the UNO.
 Download [Here](https://www.arduino.cc/en/Main/Software)
 
-Code in [Here]()
+Code in [Here](/arduino/NTC100K_Incubator.ino)
 
 ## Notes
 
