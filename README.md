@@ -31,7 +31,7 @@ In this repo you can learn how to make an incubator by assembling of the parts o
 **Incubator with our first test**   
 
 ![Petri Dish](/images/petridish.JPG)   
-**First test - over night growth of *Lactobacillus* **   
+**First test - over night growth of *Lactobacillus***   
 
 ## Arduino Code
 
